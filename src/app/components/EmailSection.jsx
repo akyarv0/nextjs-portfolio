@@ -66,9 +66,9 @@ const EmailSection = () => {
       </div>
       <div className="z-10 mt-8">
         
-          <p className="text-green-500 text-sm mt-2">
+          {/* <p className="text-green-500 text-sm mt-2">
             Email sent successfully!
-          </p>
+          </p> */}
        
           <form className="flex flex-col" >
             <div className="mb-6">
