@@ -28,7 +28,7 @@ const EmailSection = () => {
 
     emailjs.send(
       'service_6gm3doe',  // Service ID'nizi buraya ekleyin
-      'template_mr3foub', // Template ID'nizi buraya ekleyin
+      'template_9adzyey', // Template ID'nizi buraya ekleyin
       formData,
       'l5KWPLiN2fYrAgq41'      // User ID'nizi buraya ekleyin
     ).then((response) => {
