@@ -32,8 +32,8 @@ const projectsData = [
       "In this project you will see an example of portfolio page made with React and SASS.",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/akyarv0/router",
+    previewUrl: "https://router-nine-phi.vercel.app/",
   },
   // {
   //   id: 4,
